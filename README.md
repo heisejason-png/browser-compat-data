@@ -319,5 +319,4 @@ Thanks to:
     </td>
   </tr>
 </table>
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
